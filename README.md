@@ -26,6 +26,10 @@ Route 53 => https://aws.amazon.com/route53/?nc2=h_m1
 
 CloudFront => https://aws.amazon.com/cloudfront/?nc2=h_m1
 
+<img width="1697" alt="Screen Shot 2021-10-02 at 10 48 30 pm" src="https://user-images.githubusercontent.com/66815986/136188599-f502473c-2f61-46af-a5f2-07177ff1fca4.png">
+
+<img width="1642" alt="Screen Shot 2021-10-03 at 3 32 09 pm" src="https://user-images.githubusercontent.com/66815986/136188622-39b67582-4c07-4cfd-acce-6b4b5f512b82.png">
+
 For the Frontend App which build using angular
 You can find the full API documentation here: http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CognitoIdentityServiceProvider.html
 
